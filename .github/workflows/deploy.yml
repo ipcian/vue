@@ -62,5 +62,3 @@ jobs:
           git commit -m "$COMMIT_MESSAGE"
           git push -u origin $BRANCH
           
-          
-          
